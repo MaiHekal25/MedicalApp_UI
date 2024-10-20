@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator_App</string>
+    <string name="welcome_back">مرحبا بعودتك !</string>
+    <string name="to_continue_login_now">للاستمرار , سجل الان !</string>
+    <string name="phone_number"><color><b>|</b></color> رقم الهاتف</string>
+    <string name="password"><b>|</b> كلمة السر</string>
+    <string name="login">سجل الدخول</string>
+    <string name="forget_password"><u>نسيت كلمة السر ؟</u></string>
+
+</resources>
